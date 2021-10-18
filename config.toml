@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Compute Canada HSS series 2021"
+title = "Compute Canada HSS series 2022"
 
 theme = "hugo-coder"
 
@@ -23,7 +23,7 @@ canonifyurls = true
     author = "Compute Canada"
     description = ""
     keywords = ""
-    info = "HSS series 2021"
+    info = "HSS series 2022"
     wgavatar = "/images/cc_white_removed_medium.png"
     favicon_32 = "/images/favicon.png"
 

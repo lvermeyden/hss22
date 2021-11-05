@@ -14,6 +14,7 @@ slug = "intro and keynote"
 ---
 +++
 title = "Mot de bienvenue et introduction"
++++
 
 **Présenté par**: Ghilaine Roquet
 

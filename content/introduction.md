@@ -1,6 +1,5 @@
 +++
 title = "Welcome and Keynote Address"
-      = "Mot de bienvenue et introduction"
 slug = "intro and keynote"
 +++
 
@@ -13,6 +12,8 @@ slug = "intro and keynote"
 <br>
 
 ---
+title = "Mot de bienvenue et introduction"
+
 **Présenté par**: Ghilaine Roquet
 
 **Durée**: 60 minutes

@@ -7,7 +7,7 @@ slug = "intro"
 
 **Presented by / Présenté par**: Megan Meredith-Lobay and Lydia Vermeyden
 
-**Duration / Durée**: 70 minutes
+**Duration / Durée**: 40 minutes
 
 **Description**: Introduction to the Compute Canada Federation, and overview of the research support and resources
   available through the Compute Canada Federation, that are directly applicable for Humanities and Social Sciences

@@ -1,7 +1,7 @@
 +++
 title = "Welcome and Keynote Address"
       = "Mot de bienvenue et introduction"
-slug = "intro"
+slug = "intro and keynote"
 +++
 
 **Presented by**: Nizat Ladak
@@ -14,6 +14,7 @@ slug = "intro"
 
 ---
 **Présenté par**: Ghilaine Roquet
+
 **Durée**: 60 minutes
 
 **Description**: L’équipe nationale Sciences humaines et sociales accueille celles et ceux qui participent à la deuxième édition de la semaine de formation de la fédération Calcul Canada pour les sciences humaines et sociales. 

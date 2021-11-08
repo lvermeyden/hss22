@@ -3,7 +3,7 @@ title = "Welcome and Keynote Address"
 slug = "intro and keynote"
 +++
 
-**Presented by**: Nizat Ladak
+**Presented by**: Nizar Ladak
 
 **Duration**: 60 minutes
 
